@@ -38,7 +38,7 @@
 		<menuTextSmall name="menutextsmall"
 		
 			fontPath="./../fonts/${f.def}"
-			fontSize="0.028"
+			fontSize="0.015"
 			color="${c.text}"
 			
 		/>
